@@ -1,1 +1,1 @@
-JavaScript Review Project by Pepito, irien M.
+JavaScript Review Project by Pepito, Irien M.
